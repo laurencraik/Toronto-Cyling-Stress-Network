@@ -1,1 +1,3 @@
-## to open isochrone QGIS file make sure to also download all dependencies in this file 
+1) Download all network anlysis and dependecies files to your folder
+2) Download and open QGIS Cycle Stress Map
+3) Select high school from Isochrone Analysis dropdown menu and turn on layers to see base access, stress adjusted access and post 2020 or predicted 2021 analysis.
