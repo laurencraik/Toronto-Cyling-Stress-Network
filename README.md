@@ -11,6 +11,6 @@ For each public high school in Toronto we calculate base access using a flat spe
 
 Follow the steps below to load the map and check out your local school's bike accessibility. For this you will need QGIS, a free open source software. 
 
-1) Download all files in the Maps folder 
-2) Download and open "QGIS Cycle Stress Map"
+1) Download all files in the Maps folder (including network analysis)- Coversely just select the school you wish to look at
+2) Download and open "1. Toronto Schools Cycle Stress Map.qgz"
 3) Select high school from Isochrone Analysis dropdown menu and turn on layers to see base access, stress adjusted access and post 2020 or predicted 2021 analysis.
