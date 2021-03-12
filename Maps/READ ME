@@ -1,3 +1,18 @@
+These maps are part of a project by gradute studentss at MIT, in collaboration with CycleTO, to analyze just how “stressful” current bike to school access is across the city
+and understand to what extent recently added ActiveTO cycling infrastructure improved low stress access for students. This work is based off a methodology developed by
+researchers at Northeastern University (Furth et al, 2016), and applied to Toronto by UofT researchers who examined cycling stress’ impact on job access (Imani et al, 2019). 
+We focused on cycling access for high school students due to their unique mobility challenges ( often beyond school bus age but prior to driving age) and the importance school trips
+play in acheiving Toronto's goal of having 75% of all trips under 5km be walked or cycled by 2050
+
+The motivation behind caluclating stress adjsuted access is the recognition that biking alongside cars on a 60km/hr road feels very different from biking in a protected lane or
+along a recreation trail, and the number of cyclists riding reflects this. By understanding the spatial distribution of low stress access we can see where key infrastructure is missing
+that would help to encourage cycling, and we can better evaluate the impact of new cycling projects like ActiveTO.
+
+For each public high school in Toronto we calculate base access using a flat speed, stress adjsuted access which discount speed on more stressful routes and post 2020 access which shows 
+the gains from ActiveTO. 
+
+Follow the steps below to load the map and check out your local school's bike accessibility. For this you will need QGIS, a free open source software. 
+
 1) Download all network anlysis and dependecies files to your folder
 2) Download and open QGIS Cycle Stress Map
 3) Select high school from Isochrone Analysis dropdown menu and turn on layers to see base access, stress adjusted access and post 2020 or predicted 2021 analysis.
